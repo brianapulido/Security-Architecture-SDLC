@@ -1,0 +1,15 @@
+Simply put, security architecture is the strategic design and implementation of information security systems. 
+Security architecture involves the use of security technologies, policies and processes to protect an organization's IT infrastructure from unauthorized access, misuse, modification or destruction.
+The goal of secure architecture design is to reduce risk to an organization's IT assets and operations.
+Security architecture provides a roadmap or framework for building a resilient IT environment that aligns with an organization's unique business goals, compliance requirements and risk management profile.
+A layered defense approach to security recognizes that internet security risks can occur at different levels and implementing security controls across multiple layers increases protection.
+
+https://www.appsecengineer.com/blog/security-architecture-security-at-every-stage-of-sdlc
+
+IT infrastructure is multilayered and therefore a multilayered approach to protection is optimal.
+https://www.ibm.com/docs/en/i/7.5?topic=ssw_ibm_i_75/rzaj4/rzaj40a0internetsecurity.html 
+There are four system layers to consider:
+  System level--> most basic level but also last line of defense. At this level the goal is to have proper system security configuration.
+  Network level-->
+  Application level-->
+  Transmision level-->
